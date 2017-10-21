@@ -1,0 +1,80 @@
+a {color: #8e8e8e}
+
+p.centerText {
+	font-family: 'Gentium Basic', serif;
+	text-align: center;
+}
+
+p.leftTitle {
+	margin-left: 50px;
+	font-family: 'Gentium Basic', serif;
+	text-align: left;
+	font-size: large;
+	color: black;
+}
+
+p.leftText {
+	margin-left: 50px;
+	font-family: 'Gentium Basic', serif;
+	text-align: left;
+	color: #8e8e8e;
+}
+
+p.bodyText{
+	font-family: 'Gentium Basic', serif; 
+	font-weight: 100;
+	text-align: center;
+	color: #8e8e8e;
+}
+
+p {font-family: 'Gentium Basic', serif;}
+
+h2 {
+	font-family: 'Gentium Basic', serif;
+	font-size: xx-large;
+	font-weight: bold;
+	}
+
+h3 {
+	font-weight: bold;
+	font-family: 'Gentium Basic', serif;
+}
+h4 {
+	font-weight: 100;
+	font-family: 'Gentium Basic', serif;
+}
+h5 {
+	font-weight: bold;
+	font-size: 15px;
+	font-family: 'Gentium Basic', serif;
+}
+
+.buttonEmail{
+	font-family: 'Lato', serif;
+	font-weight: light;
+	background-color: #555555; color: white;
+	padding: 6px 40px
+}
+
+.buttonCater{
+	font-family: 'Lato, serif;
+	font-weight: light;
+	background-color: #555555; color: white;
+	padding: 6px 10px
+}
+
+#pageHeader{font-family: 'Questrial', sans-serif; text-align: center;}
+
+#space-footer{margin-bottom: 75px;}	
+
+.specials{max-width:900px;}
+
+
+hr {
+	border-width: 1px 1px 0;
+    border-style: solid;
+    border-color: #8e8e8e; 
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;"
+}
