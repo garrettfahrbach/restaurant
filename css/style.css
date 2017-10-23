@@ -57,17 +57,20 @@ h5 {
 }
 
 .buttonCater{
-	font-family: 'Lato, serif;
+	font-family: 'Lato', serif;
 	font-weight: light;
 	background-color: #555555; color: white;
 	padding: 6px 10px
 }
 
-#pageHeader{font-family: 'Questrial', sans-serif; text-align: center;}
+#pageHeader {
+	font-family: 'Questrial', sans-serif; 
+	text-align: center;
+}
 
-#space-footer{margin-bottom: 75px;}	
+#space-footer {margin-bottom: 75px;}	
 
-.specials{max-width:900px;}
+.specials {max-width:900px;}
 
 
 hr {
