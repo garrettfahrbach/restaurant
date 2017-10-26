@@ -20,6 +20,8 @@ p.leftText {
 	color: #8e8e8e;
 }
 
+.menu-item{margin-bottom: 40px;}
+
 p.bodyText{
 	font-family: 'Gentium Basic', serif; 
 	font-weight: 100;
@@ -63,14 +65,16 @@ h5 {
 	padding: 6px 10px
 }
 
-#pageHeader {
-	font-family: 'Questrial', sans-serif; 
+#pageHeader{
+	font-family: 'Questrial', sans-serif;
 	text-align: center;
 }
 
-#space-footer {margin-bottom: 75px;}	
+#space{margin-bottom: 40px;}
 
-.specials {max-width:900px;}
+#space-footer{margin-bottom: 75px;}	
+
+.specials{max-width:900px;}
 
 
 hr {
