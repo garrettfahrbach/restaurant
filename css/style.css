@@ -72,7 +72,10 @@ h5 {
 
 #space{margin-bottom: 40px;}
 
-#space-footer{margin-bottom: 75px;}	
+#space-footer{
+	padding: 35px;
+	background: #f9f9f9
+}	
 
 .specials{max-width:900px;}
 
